@@ -18,7 +18,7 @@
 
 ### Links
 
-- Live Site URL: [Live Site](https://gonzalo-gauna-validacion-de-formulario-1.netlify.app/)
+- Live Site URL: [Live Site](https://gonzalo-gauna-todo-list-01.netlify.app/)
 
 ## My process
 
